@@ -1,0 +1,23 @@
+.firstLast label{
+   
+display: inline-block;
+width: 200px;
+text-align: left;  
+padding: .5em; 
+font-size: large;   
+
+}
+.firstLast input{   
+margin-bottom: .5em;      
+padding: .5em;
+ }
+
+ #submit{padding: .5em;
+background-color: aqua;
+}
+
+ form{
+
+    margin: 0 auto;
+    width: 450px;
+ }
